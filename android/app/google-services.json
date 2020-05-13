@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409567872804",
+    "firebase_url": "https://connections-12fc2.firebaseio.com",
+    "project_id": "connections-12fc2",
+    "storage_bucket": "connections-12fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409567872804:android:e9ae8742a180b27e77d5b1",
+        "android_client_info": {
+          "package_name": "com.example.newchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409567872804-hsuljf59ej35r38i20aceqrpkmk7r9ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kTacqMbVvxGj-OiTYyi9Y58aqU_qySE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409567872804-hsuljf59ej35r38i20aceqrpkmk7r9ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
